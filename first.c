@@ -694,6 +694,10 @@ int main()
     // return 0;
 
 
+    char string[10];
+    printf("Enter the string: ");
+    scanf("%s", string);
+    printf("\n %s",string);
 
 
     return (0);
